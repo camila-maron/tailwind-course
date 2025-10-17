@@ -11,22 +11,22 @@ Unlike frameworks like Bootstrap, which rely on pre-built components, Tailwind u
 
 ## 🧩 Course Structure
 
-### ✔️ The Sandbox
+### ✔️ Fundamentals
 
 The course starts with a coding sandbox to experiment with all key aspects of Tailwind CSS.  
 Each video introduces a new concept in a separate file, allowing for structured, incremental learning.
 
 Topics include:
 
-- Colors  
-- Typography  
-- Spacing & sizing  
-- Flexbox  
-- Grid  
-- Borders, shadows, and effects  
-- Responsive utilities  
-- Dark mode  
-- Transitions and animations  
+- Colors
+- Typography
+- Spacing & sizing
+- Flexbox
+- Grid
+- Borders, shadows, and effects
+- Responsive utilities
+- Dark mode
+- Transitions and animations
 
 > 💡 These sections are great for understanding Tailwind’s utility-first approach before jumping into projects.
 
@@ -39,11 +39,11 @@ These help reinforce concepts by building small, self-contained UIs.
 
 Mini-projects include:
 
-- 📩 Email Subscribe Card  
-- 💰 Pricing Grids  
-- 🛍️ Product Modal  
-- 🖼️ Image Gallery  
-- 🔐 Login Modal  
+- 📩 Email Subscribe Card
+- 💰 Pricing Grids
+- 🛍️ Product Modal
+- 🖼️ Image Gallery
+- 🔐 Login Modal
 
 ---
 
@@ -54,11 +54,11 @@ These projects combine everything learned — layout, responsiveness, and even a
 
 Projects include:
 
-1. **Clipboard** — Software landing page using flexbox, alignment, and background images.  
-2. **Loopstudios** — VR company site with gradient overlays, responsive menus, and animations.  
-3. **Shortly** — Link shortener app with a responsive menu and JavaScript form validation.  
-4. **Testimonial Grid** — Focused on mastering Tailwind’s grid utilities.  
-5. **Fylo** — Product page with light/dark mode and tabbed FAQ section (JavaScript + localStorage).  
+1. **Clipboard** — Software landing page using flexbox, alignment, and background images.
+2. **Loopstudios** — VR company site with gradient overlays, responsive menus, and animations.
+3. **Shortly** — Link shortener app with a responsive menu and JavaScript form validation.
+4. **Testimonial Grid** — Focused on mastering Tailwind’s grid utilities.
+5. **Fylo** — Product page with light/dark mode and tabbed FAQ section (JavaScript + localStorage).
 6. **Bookmark** — Browser extension landing page with tabs, a hamburger menu, and background effects.
 
 ---
@@ -68,7 +68,7 @@ Projects include:
 - **Tailwind CSS**
 - **HTML5**
 - **JavaScript (vanilla)**
-- **Vite** *(for some projects)*
+- **Vite** _(for some projects)_
 - **Frontend Mentor designs**
 
 ---
@@ -76,21 +76,25 @@ Projects include:
 ## 🚀 Getting Started
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/tailwind-course.git
    ```
 
 2. Navigate into the project folder:
+
    ```bash
    cd tailwind-course
    ```
 
 3. Install dependencies (if applicable):
+
    ```bash
    npm install
    ```
 
 4. Start the development server:
+
    ```bash
    npm run dev
    ```
@@ -107,7 +111,7 @@ Projects include:
 ```
 tailwind-course/
 │
-├── 01-sandbox/
+├── 01-fundamentals/
 │   ├── colors.html
 │   ├── typography.html
 │   └── ...
