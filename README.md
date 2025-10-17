@@ -116,18 +116,7 @@ tailwind-course/
 │   ├── typography.html
 │   └── ...
 │
-├── 02-mini-projects/
-│   ├── email-subscribe/
-│   ├── pricing-grid/
-│   └── ...
-│
-└── 03-websites/
-    ├── clipboard/
-    ├── loopstudios/
-    ├── shortly/
-    ├── testimonial-grid/
-    ├── fylo/
-    └── bookmark/
+├── 02-simple-starter
 ```
 
 ---
