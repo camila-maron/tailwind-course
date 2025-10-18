@@ -119,6 +119,7 @@ tailwind-course/
 ├── 02-simple-starter
 ├── 03-functions-directives
 ├── 04-email-subscribe
+├── 05-pricing-cards
 ```
 
 ---
