@@ -121,6 +121,8 @@ tailwind-course/
 ├── 04-email-subscribe
 ├── 05-pricing-cards
 ├── 06-product-modal
+├── 07-image-gallery
+├── 08-login-modal
 ```
 
 ---
