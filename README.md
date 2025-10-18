@@ -123,6 +123,7 @@ tailwind-course/
 ├── 06-product-modal
 ├── 07-image-gallery
 ├── 08-login-modal
+├── 09-clipboard-website
 ```
 
 ---
