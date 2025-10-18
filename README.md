@@ -120,6 +120,7 @@ tailwind-course/
 ├── 03-functions-directives
 ├── 04-email-subscribe
 ├── 05-pricing-cards
+├── 06-product-modal
 ```
 
 ---
